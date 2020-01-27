@@ -1,0 +1,40 @@
+C:\Users\NVGO\workplace\cal\cal\bin\Debug\cal.exe.config
+C:\Users\NVGO\workplace\cal\cal\bin\Debug\cal.exe
+C:\Users\NVGO\workplace\cal\cal\bin\Debug\cal.pdb
+C:\Users\NVGO\workplace\cal\cal\obj\Debug\cal.Form1.resources
+C:\Users\NVGO\workplace\cal\cal\obj\Debug\cal.Properties.Resources.resources
+C:\Users\NVGO\workplace\cal\cal\obj\Debug\cal.csproj.GenerateResource.cache
+C:\Users\NVGO\workplace\cal\cal\obj\Debug\cal.csproj.CoreCompileInputs.cache
+C:\Users\NVGO\workplace\cal\cal\obj\Debug\cal.exe
+C:\Users\NVGO\workplace\cal\cal\obj\Debug\cal.pdb
+C:\Users\NVGO\workplace\cal\cal\obj\Debug\cal.csprojAssemblyReference.cache
+C:\Users\NVGO\workplace\cal - Copia\cal\bin\Debug\cal.exe.config
+C:\Users\NVGO\workplace\cal - Copia\cal\bin\Debug\cal.exe
+C:\Users\NVGO\workplace\cal - Copia\cal\bin\Debug\cal.pdb
+C:\Users\NVGO\workplace\cal - Copia\cal\obj\Debug\cal.csprojAssemblyReference.cache
+C:\Users\NVGO\workplace\cal - Copia\cal\obj\Debug\cal.Form1.resources
+C:\Users\NVGO\workplace\cal - Copia\cal\obj\Debug\cal.Properties.Resources.resources
+C:\Users\NVGO\workplace\cal - Copia\cal\obj\Debug\cal.csproj.GenerateResource.cache
+C:\Users\NVGO\workplace\cal - Copia\cal\obj\Debug\cal.csproj.CoreCompileInputs.cache
+C:\Users\NVGO\workplace\cal - Copia\cal\obj\Debug\cal.exe
+C:\Users\NVGO\workplace\cal - Copia\cal\obj\Debug\cal.pdb
+C:\Users\NVGO\workplace\cal - Copia - Copia\cal\bin\Debug\cal.exe.config
+C:\Users\NVGO\workplace\cal - Copia - Copia\cal\bin\Debug\cal.exe
+C:\Users\NVGO\workplace\cal - Copia - Copia\cal\bin\Debug\cal.pdb
+C:\Users\NVGO\workplace\cal - Copia - Copia\cal\obj\Debug\cal.csprojAssemblyReference.cache
+C:\Users\NVGO\workplace\cal - Copia - Copia\cal\obj\Debug\cal.Form1.resources
+C:\Users\NVGO\workplace\cal - Copia - Copia\cal\obj\Debug\cal.Properties.Resources.resources
+C:\Users\NVGO\workplace\cal - Copia - Copia\cal\obj\Debug\cal.csproj.GenerateResource.cache
+C:\Users\NVGO\workplace\cal - Copia - Copia\cal\obj\Debug\cal.csproj.CoreCompileInputs.cache
+C:\Users\NVGO\workplace\cal - Copia - Copia\cal\obj\Debug\cal.exe
+C:\Users\NVGO\workplace\cal - Copia - Copia\cal\obj\Debug\cal.pdb
+C:\Users\NVGO\workplace\cal - Copia - Copia - Copia\cal\bin\Debug\cal.exe.config
+C:\Users\NVGO\workplace\cal - Copia - Copia - Copia\cal\bin\Debug\cal.exe
+C:\Users\NVGO\workplace\cal - Copia - Copia - Copia\cal\bin\Debug\cal.pdb
+C:\Users\NVGO\workplace\cal - Copia - Copia - Copia\cal\obj\Debug\cal.csprojAssemblyReference.cache
+C:\Users\NVGO\workplace\cal - Copia - Copia - Copia\cal\obj\Debug\cal.Form1.resources
+C:\Users\NVGO\workplace\cal - Copia - Copia - Copia\cal\obj\Debug\cal.Properties.Resources.resources
+C:\Users\NVGO\workplace\cal - Copia - Copia - Copia\cal\obj\Debug\cal.csproj.GenerateResource.cache
+C:\Users\NVGO\workplace\cal - Copia - Copia - Copia\cal\obj\Debug\cal.csproj.CoreCompileInputs.cache
+C:\Users\NVGO\workplace\cal - Copia - Copia - Copia\cal\obj\Debug\cal.exe
+C:\Users\NVGO\workplace\cal - Copia - Copia - Copia\cal\obj\Debug\cal.pdb
